@@ -1,0 +1,16 @@
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.dll.config
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\ProjectManager.Data.pdb
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\EntityFramework.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\bin\Release\EntityFramework.xml
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Data\obj\Release\ProjectManager.Data.pdb
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\bin\Release\ProjectManager.Data.dll.config
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\bin\Release\ProjectManager.Data.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\bin\Release\ProjectManager.Data.pdb
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\bin\Release\EntityFramework.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\bin\Release\EntityFramework.xml
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\obj\Release\ProjectManager.Data.csprojResolveAssemblyReference.cache
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\obj\Release\ProjectManager.Data.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Data\obj\Release\ProjectManager.Data.pdb

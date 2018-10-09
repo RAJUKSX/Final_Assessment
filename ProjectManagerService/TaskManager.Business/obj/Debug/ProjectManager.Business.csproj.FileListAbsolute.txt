@@ -1,0 +1,20 @@
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\ProjectManager.Business.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\ProjectManager.Business.pdb
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\EntityFramework.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\ProjectManager.Data.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\ProjectManager.Data.pdb
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\ProjectManager.Data.dll.config
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\bin\Debug\EntityFramework.xml
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\obj\Debug\ProjectManager.Business.dll
+C:\Users\SBA\ProjectManagerAPI\TaskManager.Business\obj\Debug\ProjectManager.Business.pdb
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\ProjectManager.Business.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\ProjectManager.Business.pdb
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\EntityFramework.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\ProjectManager.Data.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\ProjectManager.Data.pdb
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\ProjectManager.Data.dll.config
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\bin\Debug\EntityFramework.xml
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\obj\Debug\ProjectManager.Business.dll
+C:\Sundar\FSD\Final SBA\ProjectManager\ProjectManagerService\TaskManager.Business\obj\Debug\ProjectManager.Business.pdb
